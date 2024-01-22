@@ -280,7 +280,7 @@
   {"Zip": 30620, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32003, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32033, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
-  {"Zip": 32034, "Url": "https://www.scoopsoldiers.com/get-a-quote"}
+  {"Zip": 32034, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32065, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32068, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32073, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
@@ -299,17 +299,17 @@
   {"Zip": 32164, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32174, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32176, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
-  {"Zip": 32202, "Url": "https://www.scoopsoldiers.com/get-a-quote"}
-  {"Zip": 32204, "Url": "https://www.scoopsoldiers.com/get-a-quote"}
+  {"Zip": 32202, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
+  {"Zip": 32204, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32205, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
-  {"Zip": 32206, "Url": "https://www.scoopsoldiers.com/get-a-quote"}
-  {"Zip": 32207, "Url": "https://www.scoopsoldiers.com/get-a-quote"}
-  {"Zip": 32208, "Url": "https://www.scoopsoldiers.com/get-a-quote"}
+  {"Zip": 32206, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
+  {"Zip": 32207, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
+  {"Zip": 32208, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32209, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32210, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32211, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
-  {"Zip": 32212, "Url": "https://www.scoopsoldiers.com/get-a-quote"}
-  {"Zip": 32216, "Url": "https://www.scoopsoldiers.com/get-a-quote"}
+  {"Zip": 32212, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
+  {"Zip": 32216, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32217, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32218, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32219, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
@@ -319,20 +319,20 @@
   {"Zip": 32223, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32224, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32225, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
-  {"Zip": 32226, "Url": "https://www.scoopsoldiers.com/get-a-quote"}
+  {"Zip": 32226, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32227, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32228, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32233, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32244, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
-  {"Zip": 32246, "Url": "https://www.scoopsoldiers.com/get-a-quote"}
+  {"Zip": 32246, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32250, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
-  {"Zip": 32254, "Url": "https://www.scoopsoldiers.com/get-a-quote"}
+  {"Zip": 32254, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32256, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32257, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32258, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32259, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32266, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
-  {"Zip": 32277, "Url": "https://www.scoopsoldiers.com/get-a-quote"}
+  {"Zip": 32277, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32282, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32701, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 32703, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
