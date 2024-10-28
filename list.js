@@ -2080,5 +2080,5 @@
   {"Zip": 99224, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 99251, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 99258, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
-  {"Zip": 99260, "Url": "https://www.scoopsoldiers.com/get-a-quote"},  
+  {"Zip": 99260, "Url": "https://www.scoopsoldiers.com/get-a-quote"} 
 ]
