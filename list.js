@@ -726,6 +726,7 @@
   {"Zip": 72713, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 72718, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 72719, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
+  {"Zip": 72727, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 72730, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 72739, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
   {"Zip": 72745, "Url": "https://www.scoopsoldiers.com/get-a-quote"},
